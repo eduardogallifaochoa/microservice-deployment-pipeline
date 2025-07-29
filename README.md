@@ -1,6 +1,6 @@
 # ⚡ Microservice Deployment Pipeline
 
-![CI/CD Pipeline](https://github.com/eduardogallifaochoa/microservice-deployment-pipeline/actions/workflows/ci_cd.yml/badge.svg)
+[![CI/CD Pipeline](https://github.com/eduardogallifaochoa/microservice-deployment-pipeline/actions/workflows/ci_cd.yml/badge.svg)](https://github.com/eduardogallifaochoa/microservice-deployment-pipeline/actions)
 ![Python](https://img.shields.io/badge/python-3.13.5-blue.svg)
 ![Pytest](https://img.shields.io/badge/pytest-passing-brightgreen?logo=pytest)
 
