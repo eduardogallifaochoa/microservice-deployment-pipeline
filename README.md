@@ -1,5 +1,9 @@
 # ⚡ Microservice Deployment Pipeline
 
+![CI/CD Pipeline](https://github.com/eduardogallifaochoa/microservice-deployment-pipeline/actions/workflows/ci_cd.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.13.5-blue.svg)
+![Pytest](https://img.shields.io/badge/pytest-passing-brightgreen?logo=pytest)
+
 A modern **microservice architecture** built with **FastAPI**, **background workers**, and **PostgreSQL**, all orchestrated with **Docker Compose** and a **CI/CD pipeline using GitHub Actions**.
 
 This project is designed to showcase:
